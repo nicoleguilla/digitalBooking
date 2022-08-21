@@ -28,7 +28,7 @@ Librerías utilizadas:
 - Bucket S3
 
 ### **Testing**
-- Selenium 
+- Selenium  
 - Instructivo para que quien desean clonar y levantar su proyecto, sepa paso a paso cómo hacerlo
  
 ## Pre-Requisitos 📋
